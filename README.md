@@ -1,3 +1,4 @@
+![Developer](https://github.com/makslitvinov/makslitvinov/assets/136335402/c59efc6f-f8d9-4451-9c7f-b1d112ebbe74)
 # Hey, Maks's here! :v:
 
 You may be curious to know that I'm a highly-skilled Full-stack developer specializing in **React** and **Node.js**, with a passion for creating engaging, scalable web and software solutions. My primary goal is to deeply understand all processes within software development industry, with a particular interest in frontend and backend integration.
@@ -6,9 +7,9 @@ Here's a little bit about me:
 
 :100: Think critically before diving into coding, ensuring the best approach for each project 
 
-:100: I love solving complex problems and thrive in environments where I can learn from those who are more experienced than me
+:100: Love solving complex problems and thrive in environments where I can learn from those who are more experienced than me
 
-:100: I have the ability to anticipate the consequences of my development decisions, ensuring a solid foundation for all of my projects.
+:100: Have the ability to anticipate the consequences of my development decisions, ensuring a solid foundation for all of my projects
 
 ## Skills
 
