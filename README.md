@@ -1,4 +1,5 @@
-![Developer](https://github.com/makslitvinov/makslitvinov/assets/136335402/c59efc6f-f8d9-4451-9c7f-b1d112ebbe74)
+![Developer](https://github.com/makslitvinov/makslitvinov/assets/136335402/4b6925e6-d4ae-4f27-acc9-2cd2614586db)
+
 # Hey, Maks's here! :v:
 
 You may be curious to know that I'm a highly-skilled Full-stack developer specializing in **React** and **Node.js**, with a passion for creating engaging, scalable web and software solutions. My primary goal is to deeply understand all processes within software development industry, with a particular interest in frontend and backend integration.
