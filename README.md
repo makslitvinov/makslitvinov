@@ -2,7 +2,7 @@
 
 # Hey, Maks' here! :v:
 
-You may be curious to know that I'm a highly-skilled Full-stack developer specializing in **React** and **Node.js**, with a passion for creating engaging, scalable web and software solutions. My primary goal is to deeply understand all processes within software development industry, with a particular interest in frontend and backend integration.
+You may be curious to know that I'm a highly-skilled Full-stack developer specializing in **React** and **Node.js**, with a passion for creating engaging, scalable solutions. My primary goal is to deeply understand all processes within software development industry, with a particular interest in frontend and backend integration.
 
 Here's a little bit about me:
 
