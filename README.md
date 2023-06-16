@@ -30,7 +30,6 @@ Here's a little bit about me:
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest) 
 ![](https://img.shields.io/badge/Cypress-green?style=for-the-badge&logo=cypress) 
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
-![](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud) 
 
 ## Contact Information
 Feel free to reach me at [cascadaenlasmontanas@gmail.com](mailto:cascadaenlasmontanas@gmail.com)
